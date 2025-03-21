@@ -28,11 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendupaul-09&" alt="dibyendupaul-09" /></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" alt="Robot Animation" width="50" style="vertical-align:middle;">
-</p>
-
----
-
-<p align="center">
   <em>Thanks for visiting my profile! ✨</em>
 </p>
