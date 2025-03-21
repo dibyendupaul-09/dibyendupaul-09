@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dibyendu Paul</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Dibyendu Paul </h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyendupaul-09&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendupaul-09" /> </p>
