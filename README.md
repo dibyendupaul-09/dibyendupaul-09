@@ -141,11 +141,11 @@
 
   **GitHub Profile Stats 💻**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyendupaul-09&show_icons=true&locale=en&layout=compact&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" alt="dibyendupaul-09" /></p>
+<p width="100%" align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyendupaul-09&show_icons=true&locale=en&layout=compact" alt="dibyendupaul-09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendupaul-09&show_icons=true&locale=en" alt="dibyendupaul-09" /></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendupaul-09&show_icons=true&locale=en" alt="dibyendupaul-09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendupaul-09&" alt="dibyendupaul-09" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendupaul-09&" alt="dibyendupaul-09" /></p>
 
 
  **Activity Graph 📈**
